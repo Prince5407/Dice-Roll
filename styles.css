@@ -31,6 +31,10 @@ p {
 img {
   width: 80%;
 }
+.text_align{
+  text-align: center;
+  color: white;
+}
 
 footer {
   margin-top: 5%;
